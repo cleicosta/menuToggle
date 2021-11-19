@@ -1,7 +1,7 @@
-# Menu Toogle
+# Menu Toggle
 
 Exercício de fixação de javaScript.
 
 Resultado:
 
-![menu](./img/menutoogle.gif)
+![menu](./img/menutoggle.gif)
